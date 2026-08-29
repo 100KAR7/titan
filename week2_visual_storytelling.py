@@ -1,13 +1,4 @@
-"""Week 2 visual storytelling pipeline for the Titanic dataset.
 
-This script performs the complete workflow required for the assignment:
-1) downloads the Titanic dataset from a public GitHub URL,
-2) cleans the data and prepares business-friendly labels,
-3) generates five publication-quality PNG visuals,
-4) compiles a Word report with narration and embedded images.
-
-The script runs end-to-end without additional manual steps when executed with Python.
-"""
 
 from __future__ import annotations
 
